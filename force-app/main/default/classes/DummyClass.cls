@@ -12,7 +12,7 @@
      */
 
     public DummyClass() {
-        anotherField =3;
+        anotherField =6;
     }
     
     /**
