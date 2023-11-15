@@ -1,6 +1,3 @@
-/**
- * @description DummyClass
- */
     public with sharing class DummyClass {
     /**
      * @description Contructor
